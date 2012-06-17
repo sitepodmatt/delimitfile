@@ -2,7 +2,9 @@
   "author": "Matt Freeman <matt@mattfreeman.co.uk> (http://www.twitter.com/nonuby)",
   "name": "delimitfile",
   "description": "read a file by delimiter such as new line",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "keywords": ["delimiter","delimit"],
+  "repository": "https://github.com/nonuby/delimitfile.git",
   "repository": {
     "url": "https://github.com/nonuby/delimitfile.git"
   },
