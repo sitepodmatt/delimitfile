@@ -5,9 +5,6 @@
   "version": "0.0.3",
   "keywords": ["delimiter","delimit"],
   "repository": "git://github.com/nonuby/delimitfile.git",
-  "repository": {
-    "url": "git://github.com/nonuby/delimitfile.git"
-  },
   "main": "index",
   "license": "MIT",
   "dependencies": {},
