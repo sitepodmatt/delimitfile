@@ -23,7 +23,7 @@ lineStream.on('end',function () {
 install
 =======
 
-cd <projectdir>  
+cd projectdir  
 npm install --save delimitfile
 
 license
@@ -32,6 +32,6 @@ The MIT License
 
 author
 =======
-[Twitter - @nonuby](http://www.twitter.com/nonuby) 
+[Twitter - @nonuby](http://www.twitter.com/nonuby)  
 [Nonuby Blog](http://blog.nonuby.com/) 
 
