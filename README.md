@@ -1,6 +1,9 @@
 delimitfile
 ======
 
+** NOTE: Sorry, this is no longer maintained, I am currently not active in node.js space. **
+
+
 Simple node.js stream wrapper to handle reading delimited text based files in streaming fashion.
 
 \n is default delimiter, a regex instance can be passed as delimiter (take care with escaping though). 
@@ -30,8 +33,4 @@ license
 =======
 The MIT License
 
-author
-=======
-[Twitter - @nonuby](http://www.twitter.com/nonuby)  
-[Nonuby Blog](http://blog.nonuby.com/) 
 
